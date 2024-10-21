@@ -1,0 +1,14 @@
+Hello!
+My name is Minh Quang.
+I am 21 years old.
+This is a file
+Written by
+Python
+
+Formatted Data:
+Name: Minh Quang
+Age: 21
+City: Ho Chi Minh
+
+Binary Data (in hex):
+00 01 02 03 04

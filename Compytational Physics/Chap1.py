@@ -1,0 +1,11 @@
+print('Hello world')
+print(6)
+print(1);print('Hii')
+
+print('Xin', 'Chào', 'Hiiii', 123)
+print('Xin', 'Chào', 'Hiii', 123, sep=',')
+print('Xin', 'Chào', end='.')
+print(' Tôi là Minh Quang')
+print('Tên={0}, Họ={1}'.format('Quang', 'Phạm'))
+print(30+40)
+print("30+40")
